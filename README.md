@@ -112,6 +112,6 @@ A full-stack AI-powered e-commerce application that detects fraudulent transacti
 - Explainable AI
 - Mobile Application
 
-eveloped by
+Developed by
 **Rutuja Deshmukh**
 
