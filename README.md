@@ -80,16 +80,54 @@ ml/notebooks/     Jupyter notebooks (EDA + training)
 docs/             Data mining report
 scripts/          Demo test scripts
 ```
-
-## Viva Talking Points
-
-1. **Problem**: E-commerce fraud causes financial loss; real-time detection minimizes chargebacks.
-2. **Dataset**: Synthetic e-commerce transactions engineered from fraud-detection feature patterns (amount, velocity, device, address).
-3. **Preprocessing**: StandardScaler + SMOTE for class imbalance (~8% fraud rate).
-4. **Models compared**: Logistic Regression (interpretable baseline), Random Forest (non-linear), XGBoost (best F1).
-5. **Metrics**: Precision, Recall, F1 (recall prioritized), ROC-AUC, confusion matrix.
-6. **Real-time integration**: Feature vector built from live order + user history → model inference at checkout → WebSocket alert to admin.
-
 ## API Docs
-
 Once backend is running: http://127.0.0.1:8000/docs
+# 🛡️ Real-Time E-Commerce Fraud Detection System
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwind-css)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
+
+A full-stack AI-powered e-commerce application that detects fraudulent transactions in real time using Machine Learning.
+ Features
+- 🔐 JWT Authentication
+- 👤 Customer & Admin Roles
+- 🛍️ Product Catalog
+- 🛒 Shopping Cart
+- 💳 Checkout System
+- 🤖 Real-Time Fraud Detection
+- 📊 Admin Dashboard
+- 📈 ML Metrics Dashboard
+- ⚡ WebSocket Live Fraud Alerts
+- 📄 FastAPI Swagger Documentation
+
+# 📸 Screenshots
+
+## Home ![Home](screenshots/home-page.png)
+
+## Products ![Products](screenshots/products-page.png)
+
+## Shopping Cart ![Cart](screenshots/shopping-cart.png)
+
+## Checkout ![Checkout](screenshots/checkout-page.png)
+
+## Admin Dashboard ![Dashboard](screenshots/admin-dashboard.png)
+
+## ML Metrics ![ML Metrics](screenshots/ml-metrics.png)
+
+## Swagger API ![Swagger](screenshots/swagger-api.png)
+
+# Future Improvements
+
+- Docker
+- Payment Gateway
+- Cloud Deployment
+- Email Notifications
+- Explainable AI
+- Mobile Application
+
+eveloped by
+**Rutuja Deshmukh**
+
