@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.db
+
+# Node
+node_modules/
+dist/
+
+# ML artifacts (keep metrics.json in repo for demo)
+backend/models/*.pkl
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env

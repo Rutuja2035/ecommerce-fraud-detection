@@ -1,0 +1,16 @@
+{
+  "feature_names": [
+    "log_transaction_amount",
+    "hour_of_day",
+    "is_night",
+    "account_age_days",
+    "orders_last_24h",
+    "transactions_per_hour",
+    "payment_card",
+    "payment_wallet",
+    "payment_cod",
+    "ip_country_mismatch",
+    "new_device_flag",
+    "address_mismatch"
+  ]
+}
