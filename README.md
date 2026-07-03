@@ -82,7 +82,7 @@ scripts/          Demo test scripts
 ```
 ## API Docs
 Once backend is running: http://127.0.0.1:8000/docs
-# 🛡️ Real-Time E-Commerce Fraud Detection System
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
@@ -102,22 +102,6 @@ A full-stack AI-powered e-commerce application that detects fraudulent transacti
 - 📈 ML Metrics Dashboard
 - ⚡ WebSocket Live Fraud Alerts
 - 📄 FastAPI Swagger Documentation
-
-# 📸 Screenshots
-
-## Home ![Home](screenshots/home-page.png)
-
-## Products ![Products](screenshots/products-page.png)
-
-## Shopping Cart ![Cart](screenshots/shopping-cart.png)
-
-## Checkout ![Checkout](screenshots/checkout-page.png)
-
-## Admin Dashboard ![Dashboard](screenshots/admin-dashboard.png)
-
-## ML Metrics ![ML Metrics](screenshots/ml-metrics.png)
-
-## Swagger API ![Swagger](screenshots/swagger-api.png)
 
 # Future Improvements
 
